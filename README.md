@@ -176,11 +176,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-Divyansh--1210-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/divyansh-singh" target="_blank">
+<a href="https://www.linkedin.com/in/divyanshsingh1210/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:divyanshsingh@email.com" target="_blank">
+<a href="mailto:1210.divyanshsingh@email.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
