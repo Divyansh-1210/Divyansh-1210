@@ -81,16 +81,25 @@ me.say_hi()
 
 <div align="center">
 
-<!--  Stats Card  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyansh-1210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<!-- Stats Card - using anuraghazra's hosted instance -->
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Divyansh-1210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<!--  Top Languages  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-1210&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Divyansh-1210&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<!-- Streak Stats — uses a different reliable service -->
+<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Divyansh-1210&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Live stats badges via shields.io (always works) -->
+<img src="https://img.shields.io/github/stars/Divyansh-1210?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" />
+&nbsp;
+<img src="https://img.shields.io/github/repos/Divyansh-1210?style=for-the-badge&logo=github&label=Repositories&color=blue" />
+&nbsp;
+<img src="https://img.shields.io/badge/Language-Python%20%7C%20HTML-informational?style=for-the-badge&logo=python" />
 
 </div>
 
@@ -100,22 +109,23 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Repo cards using anuraghazra1 instance (more reliable) -->
 <a href="https://github.com/Divyansh-1210/PORTFOLIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-1210&repo=PORTFOLIO&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=PORTFOLIO&theme=tokyonight&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/Divyansh-1210/Trimly-A-Url-Link-shortner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-1210&repo=Trimly-A-Url-Link-shortner&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=Trimly-A-Url-Link-shortner&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Divyansh-1210/flask-task-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-1210&repo=flask-task-api&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=flask-task-api&theme=tokyonight&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/Divyansh-1210/Article-Recommendation-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-1210&repo=Article-Recommendation-System&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=Article-Recommendation-System&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -138,7 +148,7 @@ me.say_hi()
 
 <div align="center">
 
-> ⚠️ **First-time setup:** Go to the **Actions** tab of this repo → Click **"Generate Contribution Snake"** → **Run workflow** manually once to generate the snake SVG. After that it auto-updates every 12 hours!
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -163,7 +173,10 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh-1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+<!-- Trophy row 1 -->
+<img src="https://github-profile-trophy.vercel.app/?username=Divyansh-1210&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+
 </div>
 
 ---
