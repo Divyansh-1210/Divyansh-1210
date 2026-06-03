@@ -174,8 +174,8 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Trophy row 1 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Divyansh-1210&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<!-- Trophies - tested working ✅ -->
+<img src="https://github-trophies.vercel.app/?username=Divyansh-1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
 
 </div>
 
