@@ -115,6 +115,8 @@ me.say_hi()
 <a href="https://github.com/Divyansh-1210/Article-Recommendation-System">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=Article-Recommendation-System&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/Divyansh-1210/Trimly-A-Url-Link-shortner">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=Trimly-A-Url-Link-shortner&theme=tokyonight&hide_border=true" />
 
 </div>
 
