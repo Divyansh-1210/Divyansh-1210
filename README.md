@@ -108,18 +108,6 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<!-- Repo cards using anuraghazra1 instance (more reliable) -->
-<a href="https://github.com/Divyansh-1210/PORTFOLIO">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=PORTFOLIO&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/Divyansh-1210/Trimly-A-Url-Link-shortner">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=Trimly-A-Url-Link-shortner&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/Divyansh-1210/flask-task-api">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Divyansh-1210&repo=flask-task-api&theme=tokyonight&hide_border=true" />
 </a>
